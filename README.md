@@ -319,14 +319,8 @@ E-Commerce-Executive-Dashboard/
 │
 ├── E-Commerce Executive Dashboard.pdf
 │
-├── SQL/
-│   └── queries.sql
-│
-├── PowerBI/
-│   └── e-commerce-dashboard.pbix
-│
-└── Dataset/
-    └── ...
+└── PowerBI/
+    └── e-commerce-dashboard.pbit
 ```
 
 ---
